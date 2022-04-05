@@ -1,13 +1,10 @@
 # calculator-Webapp
 LetsGrowMore LGMVIP-Web
 
+**Task-4:** CREATE A CALCULATOR WEBAPP
 
-Task-4: CREATE A CALCULATOR WEBAPP
+**Tech Stack:** HTML, CSS, Javacript
 
-Tech Stack: HTML, CSS, Javacript
+**Code Editor:** Visual Studio Code
 
-
-Code Editor: Visual Studio Code
-
-
-Website Link: https://shreyasguduri-calculator.herokuapp.com/
+**Website Link:** https://shreyasguduri-calculator.herokuapp.com/
